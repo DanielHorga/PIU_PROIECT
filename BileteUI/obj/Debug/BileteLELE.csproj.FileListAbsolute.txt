@@ -1,0 +1,16 @@
+C:\Users\florb\Downloads\sadsadsad\PIU2\BileteUI\bin\Debug\BileteUI.exe.config
+C:\Users\florb\Downloads\sadsadsad\PIU2\BileteUI\bin\Debug\BileteUI.exe
+C:\Users\florb\Downloads\sadsadsad\PIU2\BileteUI\bin\Debug\BileteUI.pdb
+C:\Users\florb\Downloads\sadsadsad\PIU2\BileteUI\bin\Debug\BeleteMgm.dll
+C:\Users\florb\Downloads\sadsadsad\PIU2\BileteUI\bin\Debug\BileteLibrary.dll
+C:\Users\florb\Downloads\sadsadsad\PIU2\BileteUI\bin\Debug\BeleteMgm.pdb
+C:\Users\florb\Downloads\sadsadsad\PIU2\BileteUI\bin\Debug\BileteLibrary.pdb
+C:\Users\florb\Downloads\sadsadsad\PIU2\BileteUI\obj\Debug\BileteLELE.csproj.AssemblyReference.cache
+C:\Users\florb\Downloads\sadsadsad\PIU2\BileteUI\obj\Debug\BileteLELE.csproj.SuggestedBindingRedirects.cache
+C:\Users\florb\Downloads\sadsadsad\PIU2\BileteUI\obj\Debug\BileteLELE.Form1.resources
+C:\Users\florb\Downloads\sadsadsad\PIU2\BileteUI\obj\Debug\BileteUI.Properties.Resources.resources
+C:\Users\florb\Downloads\sadsadsad\PIU2\BileteUI\obj\Debug\BileteLELE.csproj.GenerateResource.cache
+C:\Users\florb\Downloads\sadsadsad\PIU2\BileteUI\obj\Debug\BileteLELE.csproj.CoreCompileInputs.cache
+C:\Users\florb\Downloads\sadsadsad\PIU2\BileteUI\obj\Debug\BileteLELE.csproj.CopyComplete
+C:\Users\florb\Downloads\sadsadsad\PIU2\BileteUI\obj\Debug\BileteUI.exe
+C:\Users\florb\Downloads\sadsadsad\PIU2\BileteUI\obj\Debug\BileteUI.pdb
